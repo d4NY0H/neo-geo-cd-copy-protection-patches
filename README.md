@@ -1,0 +1,1 @@
+# neo-geo-cd-copy-protection-patches
